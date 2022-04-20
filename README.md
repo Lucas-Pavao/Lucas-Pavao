@@ -1,5 +1,5 @@
-
-- 🔭 Estudante de analise e desenvolvimento de sistemas.
+## Olá!! Eu sou Lucas
+- 🔭 Estudante de Analise e desenvolvimento de sistemas.
 - 🌱 Atualmente estudando javaScript, Java, Flutter.
 - 😄 Pronouns: Ele/Dele
 

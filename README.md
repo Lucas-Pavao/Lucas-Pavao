@@ -1,7 +1,7 @@
 ## Olá!! Eu sou Lucas
 - 🔭 Estudante de Analise e desenvolvimento de sistemas.
 - 🌱 Atualmente estudando javaScript, Java, Flutter.
-- 😄 Pronouns: Ele/Dele
+- 😄 Pesquisador e Desenvolvedor do SICOL (Sisteme inteligente de coleta de lixo) - Projeto de extenção em parceiria do IFPE e UFPE.
 
 
 

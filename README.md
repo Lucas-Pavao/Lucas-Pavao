@@ -1,6 +1,6 @@
 ## Olá!! Eu sou Lucas
 - 🔭 Estudante de Analise e desenvolvimento de sistemas.
-- 🌱 Atualmente estudando Flutter, javaScript, Java, React.js.
+- 🌱 Atualmente estudando Flutter, Java, SpringBoot.
 - 😄 Pesquisador e Desenvolvedor do SICOL (Sistema inteligente de coleta de lixo) - Projeto de extenção em parceiria do IFPE e UFPE.
 
 

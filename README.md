@@ -9,7 +9,7 @@ Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com ex
 
 ## 🚀 Projetos Destacados
 
-## "Lixo na Hora Certa" - Projeto Inovador em Gestão Ambiental
+### "Lixo na Hora Certa" - Projeto Inovador em Gestão Ambiental
 
 Participei ativamente do desenvolvimento do aplicativo "Lixo na Hora Certa", uma solução inovadora para a reestruturação da coleta de resíduos urbanos em Paudalho. Utilizando Flutter, criei uma ferramenta eficaz que simplifica e aprimora a experiência de coleta de resíduos para os cidadãos.
 

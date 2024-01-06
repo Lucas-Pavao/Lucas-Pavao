@@ -26,7 +26,6 @@ Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com ex
 ![API Rest](https://img.shields.io/badge/API_Rest-0D1117?style=for-the-badge&logo=rest&logoColor=white&labelColor=0D1117)&nbsp;
 ![API Rest Full](https://img.shields.io/badge/API_Rest_Full-0D1117?style=for-the-badge&logo=rest&logoColor=white&labelColor=0D1117)&nbsp;
 
-
 ## 🚀 Projetos Destacados
 
 ### "Lixo na Hora Certa" - Projeto Inovador em Gestão Ambiental

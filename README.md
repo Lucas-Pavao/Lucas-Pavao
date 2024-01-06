@@ -50,3 +50,6 @@ Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](htt
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas-Pavao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pavao&layout=compact&langs_count=7&theme=midnight-purple)
+
+<br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=footer"/>

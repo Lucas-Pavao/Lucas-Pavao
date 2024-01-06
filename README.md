@@ -1,4 +1,6 @@
-# Lucas Pavão - Desenvolvedor de Sistemas
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0080D1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Lucas+👋;Full-Stack+Developer+💻)](https://git.io/typing-svg)
 
 Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com experiência significativa em desenvolvimento de sistemas e análise de sistemas. Atualmente, estou aprimorando minhas habilidades cursando tecnólogo em análise e desenvolvimento de sistemas.
 

@@ -6,8 +6,25 @@ Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com ex
 
 ## 💻 Minhas Tecnologias
 
-- Linguagens: Java, Flutter, Dart, C, SQL, JavaScript, HTML5, CSS, .NET, C#
-- Ferramentas: Git, JPA, Spring Boot, API Rest, API Rest Full
+### Linguagens:
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2&labelColor=0D1117)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=sql&logoColor=white&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=903ba7&labelColor=0D1117)&nbsp;
+
+### Ferramentas:
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;
+![JPA](https://img.shields.io/badge/JPA-0D1117?style=for-the-badge&logo=jpa&logoColor=white&labelColor=0D1117)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&labelColor=0D1117)&nbsp;
+![API Rest](https://img.shields.io/badge/API_Rest-0D1117?style=for-the-badge&logo=rest&logoColor=white&labelColor=0D1117)&nbsp;
+![API Rest Full](https://img.shields.io/badge/API_Rest_Full-0D1117?style=for-the-badge&logo=rest&logoColor=white&labelColor=0D1117)&nbsp;
+
 
 ## 🚀 Projetos Destacados
 
@@ -25,8 +42,8 @@ Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](htt
 
 ## 📬 Entre em Contato
 
-- 📧 Email: [lucaspavao89@gmail.com](mailto:lucaspavao89@gmail.com)
-- 🔗 LinkedIn: [Lucas Pavão](https://www.linkedin.com/in/lucas-pavão-531100204)
+[![Email](https://img.shields.io/badge/Email-3D0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&color=02aeff&logoColor=white&style=for-the-badge&label=)](mailto:lucaspavao89@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117&color=02aeff&logoColor=white&style=for-the-badge&label=)](https://www.linkedin.com/in/lucas-pavão-531100204)
 
 ## 📊 Estatísticas do GitHub
 

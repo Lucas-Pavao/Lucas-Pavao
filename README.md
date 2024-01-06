@@ -17,6 +17,7 @@ Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com ex
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=903ba7&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 ### Ferramentas:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)&nbsp;

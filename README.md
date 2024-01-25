@@ -1,4 +1,4 @@
-[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lucas%20Pavão&desc=FullStack%20Developer&descAlignY=65&section=header)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lucas%20Pavão&desc=FullStack%20Developer&descAlignY=65&section=header)
 
 Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com experiência significativa em desenvolvimento de sistemas e análise de sistemas. Atualmente, estou aprimorando minhas habilidades cursando tecnólogo em análise e desenvolvimento de sistemas.
 

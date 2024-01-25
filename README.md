@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0080D1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Lucas+👋;Full-Stack+Developer+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lucas%20Pavão&desc=FullStack%20Developer&descAlignY=65&section=header)](https://git.io/typing-svg)
 
 Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com experiência significativa em desenvolvimento de sistemas e análise de sistemas. Atualmente, estou aprimorando minhas habilidades cursando tecnólogo em análise e desenvolvimento de sistemas.
 
@@ -51,5 +49,3 @@ Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](htt
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucas-Pavao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pavao&layout=compact&langs_count=7&theme=midnight-purple)
 
-<br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=footer"/>

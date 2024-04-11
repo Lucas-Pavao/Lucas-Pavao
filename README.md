@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=b&text=Lucas%20Pavão&desc=Mobile/BackEnd%20Developer&descAlignY=65&section=header&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=ffffff&text=Lucas%20Pavão&desc=Mobile/BackEnd%20Developer&descAlignY=65&section=header&fontColor=000000)
 
 Olá! 👋 Eu sou Lucas Pavão e sou um Desenvolvedor Mobile e BackEnd com uma trajetória de quatro anos no desenvolvimento de software. Graduei-me em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Pernambuco - IFPE em 2024, reforçando minha base acadêmica para suportar minhas habilidades práticas.
 ## 💻 Minhas Tecnologias

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Lucas%20Pavão&desc=Mobile/BackEnd%20Developer&descAlignY=65&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=b&text=Lucas%20Pavão&desc=Mobile/BackEnd%20Developer&descAlignY=65&section=header&fontColor=ffffff)
 
 Olá! 👋 Eu sou Lucas Pavão, um profissional apaixonado por tecnologia com experiência significativa em desenvolvimento de sistemas e análise de sistemas. Atualmente, estou aprimorando minhas habilidades cursando tecnólogo em análise e desenvolvimento de sistemas.
 

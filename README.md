@@ -25,9 +25,22 @@ Principais funcionalidades:
 - Sistema de rastreamento em tempo real dos veículos de coleta.
 - Cadastro de múltiplas residências para gestão personalizada do descarte de resíduos.
 
-Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](https://www.paudalho.pe.gov.br/portal/aplic
+Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](https://www.paudalho.pe.gov.br/portal/aplicativo-lixo-na-hora-certa-e-lancado-para-androids-em-paudalho/).
 
-ativo-lixo-na-hora-certa-e-lancado-para-androids-em-paudalho/).
+### "CatalagoApi" - Gerenciamento de Catálogo de Produtos em .NET
+
+O "CatalagoApi" é uma REST API desenvolvida em .NET para facilitar o gerenciamento de um catálogo de produtos. Esta aplicação permite realizar operações CRUD (Create, Read, Update, Delete) em produtos, categorias e outras entidades relacionadas. Utilizando tecnologias modernas e práticas avançadas de desenvolvimento, o projeto busca oferecer uma solução robusta, escalável e de alto desempenho.
+
+Principais características:
+
+- Implementação de padrões de projeto como Repository e Unit of Work para modularidade e facilidade de teste.
+- Utilização de JSON Web Tokens (JWT) para autenticação e autorização seguras.
+- Uso de AutoMapper para mapeamento entre objetos de transferência de dados (DTOs) e entidades de domínio.
+- Adoção de programação assíncrona para melhorar desempenho e escalabilidade.
+- Funcionalidades avançadas como paginação, filtro e ordenação para uma melhor experiência de usuário.
+- Configuração de CORS e Rate Limiting para segurança e controle de acesso à API.
+
+Para saber mais sobre, visite o [repositório CatalagoApi](https://github.com/Lucas-Pavao/catalogo-rest-api).
 
 ## 📬 Entre em Contato
 

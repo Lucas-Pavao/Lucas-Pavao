@@ -15,7 +15,7 @@ Olá! 👋 Eu sou Lucas Pavão e sou um Desenvolvedor Mobile e BackEnd com uma t
 
 ## 🚀 Projetos Destacados
 
-### "Lixo na Hora Certa" - Projeto Inovador em Gestão Ambiental
+### "Lixo na Hora Certa" - Projeto Inovador em Gestão Ambiental - 📱
 
 Participei ativamente do desenvolvimento do aplicativo "Lixo na Hora Certa", uma solução inovadora para a reestruturação da coleta de resíduos urbanos em Paudalho. Utilizando Flutter, criei uma ferramenta eficaz que simplifica e aprimora a experiência de coleta de resíduos para os cidadãos.
 
@@ -27,7 +27,7 @@ Principais funcionalidades:
 
 Para saber mais sobre o projeto, acesse o [Portal da Prefeitura de Paudalho](https://www.paudalho.pe.gov.br/portal/aplicativo-lixo-na-hora-certa-e-lancado-para-androids-em-paudalho/).
 
-### "CatalagoApi" - Gerenciamento de Catálogo de Produtos em .NET
+### "CatalagoApi" - Gerenciamento de Catálogo de Produtos em .NET - 🗃️
 
 O "CatalagoApi" é uma REST API desenvolvida em .NET para facilitar o gerenciamento de um catálogo de produtos. Esta aplicação permite realizar operações CRUD (Create, Read, Update, Delete) em produtos, categorias e outras entidades relacionadas. Utilizando tecnologias modernas e práticas avançadas de desenvolvimento, o projeto busca oferecer uma solução robusta, escalável e de alto desempenho.
 

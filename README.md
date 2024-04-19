@@ -53,6 +53,22 @@ To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Pavao&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Pavao&layout=compact&langs_count=7&theme=midnight-purple)
+<p align="center">
+  <a href="https://github.com/Lucas-Pavao">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Pavao&theme=radical&border=7F3FBF&background=0D1117" alt="Lucas's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lucas-Pavao">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Pavao&theme=radical" alt="Lucas's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Lucas-Pavao"><img alt="Lucas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LucasMonteiro10&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Lucas-Pavao"><img alt="Lucas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LucasMonteiro10&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
 

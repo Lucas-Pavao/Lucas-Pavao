@@ -5,23 +5,23 @@
 Hello! 👋 I'm Lucas Pavão, a Mobile and BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
 
 
-## 💻 ${{\color{Gold}\Huge{\textsf{  Tech\ Stack\ \}}}}\$
+## 💻 Tech Stack
 
 
 | **Languages** | **Databases** | **Frameworks** | **Utilities** | **DevOps** | **Development Tools** |
 | -------------- | ------------------- | -------------- | ------------- | ---------- | --------------------- |
 | [![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117)](https://www.java.com/) [![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=0D1117)](https://dart.dev/) [![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=903ba7&labelColor=0D1117)](https://docs.microsoft.com/pt-br/dotnet/csharp/) | [![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)](https://www.mongodb.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117)](https://www.mysql.com/) | [![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=0175C2&labelColor=0D1117)](https://flutter.dev/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&labelColor=0D1117)](https://spring.io/projects/spring-boot) [![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117)](https://dotnet.microsoft.com/) | [![Insomnia](https://img.shields.io/badge/Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=5849BE&labelColor=0D1117)](https://insomnia.rest/) [![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)](https://www.postman.com/) | [![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)](https://github.com/) [![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FCA121&labelColor=0D1117)](https://about.gitlab.com/) [![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=ed6218&labelColor=0D1117)](https://aws.amazon.com/) | [![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/) [![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=0D1117)](https://developer.android.com/studio) [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=ffffff&labelColor=0D1117)](https://www.jetbrains.com/idea/) [![Trello](https://img.shields.io/badge/Trello-0D1117?style=for-the-badge&logo=trello&logoColor=0079BF&labelColor=0D1117)](https://trello.com/) [![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117)](https://www.figma.com/)
 
-### 📖 Studying:
+### 📖 *Studying*:
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=5af542&labelColor=0D1117)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=0095D5&labelColor=0D1117)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117)
 
-## 🎓 ${{\color{Gold}\Huge{\textsf{  My\ Articles\ \}}}}\$
+## 🎓 My Articles
 
 - [Implementation of a system to assist in the collection of urban solid waste](https://sol.sbc.org.br/index.php/encompif/article/view/20438)
 
-## 🚀 ${{\color{Gold}\Huge{\textsf{  Featured\ Projects\ \}}}}\$
+## 🚀 Featured Projects
 
 ### "Lixo na Hora Certa" - Innovative Project in Environmental Management - 📱
 
@@ -51,9 +51,9 @@ Key features:
 To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao/catalogo-rest-api).
 
 
-## 📬 ${{\color{Gold}\Huge{\textsf{  Get\ in\  Touch\ \}}}}\$
+## 📬 Get in  Touch
 
-<img align="right" alt= "Animation" width = 200 src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"> 
+<img align="right" alt= "Animation" width = 200 src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif"> 
 
 <br/>
 <p align="center">
@@ -82,7 +82,7 @@ To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao
 
 
 
-## 📊 ${{\color{Gold}\Huge{\textsf{  GitHub\ Stats\ \}}}}\$
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Lucas-Pavao">

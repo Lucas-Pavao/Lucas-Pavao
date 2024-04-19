@@ -2,7 +2,7 @@
 
 Hello! 👋 I'm Lucas Pavão, a Mobile/BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
 
-## 💻 My Technologies
+## 💻 Tech Stack
 
 | **Languages** | **Databases** | **Frameworks** | **Utilities** | **DevOps** | **Development Tools** |
 | -------------- | ------------------- | -------------- | ------------- | ---------- | --------------------- |

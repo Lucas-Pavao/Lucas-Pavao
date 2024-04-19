@@ -46,15 +46,19 @@ Key features:
 
 To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao/catalogo-rest-api).
 
+
 ## 📬 Get in Touch
 
+<img align="right" alt= "Animation" width = 200 src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"> 
+
+<br/>
 <p align="center">
   <div style="display: inline-block; margin-right: 20px;">
     <a href="https://www.linkedin.com/in/lucas-pavão/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Pavao"/>
     </a>
   </div>
-    
+  
   <div style="display: inline-block; margin-right: 20px;">
     <a href="https://www.instagram.com/lucass.pav/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Lucas-Pavao" />
@@ -67,6 +71,9 @@ To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao
     </a> 
   </div>
 </p>
+
+<br/>
+
 
 
 

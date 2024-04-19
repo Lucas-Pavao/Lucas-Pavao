@@ -4,7 +4,9 @@
 
 Hello! 👋 I'm Lucas Pavão, a Mobile and BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
 
-## 💻 Tech Stack
+
+## 💻 ${{\color{Gold}\Huge{\textsf{  Tech\ Stack\ \}}}}\$
+
 
 | **Languages** | **Databases** | **Frameworks** | **Utilities** | **DevOps** | **Development Tools** |
 | -------------- | ------------------- | -------------- | ------------- | ---------- | --------------------- |
@@ -15,11 +17,11 @@ Hello! 👋 I'm Lucas Pavão, a Mobile and BackEnd Developer with a four-year jo
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=0095D5&labelColor=0D1117)
 ![Angular](https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117)
 
-## 🎓 My Articles
+## 🎓 ${{\color{Gold}\Huge{\textsf{  My\ Articles\ \}}}}\$
 
 - [Implementation of a system to assist in the collection of urban solid waste](https://sol.sbc.org.br/index.php/encompif/article/view/20438)
 
-## 🚀 Featured Projects
+## 🚀 ${{\color{Gold}\Huge{\textsf{  Featured\ Projects\ \}}}}\$
 
 ### "Lixo na Hora Certa" - Innovative Project in Environmental Management - 📱
 
@@ -49,7 +51,7 @@ Key features:
 To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao/catalogo-rest-api).
 
 
-## 📬 Get in Touch
+## 📬 ${{\color{Gold}\Huge{\textsf{  Get\ in\  Touch\ \}}}}\$
 
 <img align="right" alt= "Animation" width = 200 src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"> 
 
@@ -80,7 +82,7 @@ To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao
 
 
 
-## 📊 GitHub Stats
+## 📊 ${{\color{Gold}\Huge{\textsf{  GitHub\ Stats\ \}}}}\$
 
 <p align="center">
   <a href="https://github.com/Lucas-Pavao">

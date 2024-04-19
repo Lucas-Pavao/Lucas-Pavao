@@ -48,8 +48,28 @@ To learn more, visit the [CatalagoApi repository](https://github.com/Lucas-Pavao
 
 ## 📬 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-3D0D1117?style=for-the-badge&logo=gmail&labelColor=0D1117&color=02aeff&logoColor=white&style=for-the-badge&label=)](mailto:lucaspavao89@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3D0D1117?style=for-the-badge&logo=linkedin&labelColor=0D1117&color=02aeff&logoColor=white&style=for-the-badge&label=)](https://www.linkedin.com/in/lucas-pavão-531100204)
+<p align="center">
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.linkedin.com/in/lucas-pavão/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas-Pavao"/>
+    </a>
+  </div>
+    
+  <div style="display: inline-block; margin-right: 20px;">
+    <a href="https://www.instagram.com/lucass.pav/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Lucas-Pavao" />
+    </a>
+  </div>
+    
+  <div style="display: inline-block;">
+    <a href="https://www.instagram.com/lucass.pav/" target="_blank">
+      <img src="https://img.shields.io/badge/Email-eb4034?style=for-the-badge&logo=gmail&logoColor=white" alt="Lucas-Pavao" />
+    </a> 
+  </div>
+</p>
+
+
+
 
 ## 📊 GitHub Stats
 

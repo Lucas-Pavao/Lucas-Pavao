@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=4c038c&text=Lucas%20Pavão&desc=Mobile%20Developer%20-%20BackEnd%20Developer&descAlignY=65&section=header&fontColor=ffffff)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c038c&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c038c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Pavão;I'm+21+years+old;I'm+from+Pernambuco,Brazil;I'm+a+Mobile+And+BackEnd+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 Hello! 👋 I'm Lucas Pavão, a Mobile/BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
 

@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c038c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Pavão;I'm+21+years+old;I'm+from+Pernambuco,Brazil;I'm+a+Mobile+And+BackEnd+Developer;Be+Welcome!+:D)](https://git.io/typing-svg)
 
-Hello! 👋 I'm Lucas Pavão, a Mobile/BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
+Hello! 👋 I'm Lucas Pavão, a Mobile and BackEnd Developer with a four-year journey in software development. I graduated in Systems Analysis and Development from the Federal Institute of Pernambuco - IFPE in 2024, strengthening my academic foundation to support my practical skills.
 
 ## 💻 Tech Stack
 
